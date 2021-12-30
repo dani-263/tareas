@@ -1,0 +1,72 @@
+[
+  {
+    "nombre": "tempor sint",
+    "descripcion": "ad in eu officia",
+    "fecha": "29/09/2020",
+    "url": "http://placehold.it/32x32",
+    "imagen": "http://placehold.it/32x32",
+    "estado": "DOING",
+    "tipo": "LLAMADA",
+    "color": "naranja",
+    "latitud": 85.294685,
+    "longitud": -159.480697,
+    "duracion": 125,
+    "participantes": 41
+  },
+  {
+    "nombre": "labore excepteur",
+    "descripcion": "nulla nulla exercitation tempor",
+    "fecha": "02/04/2020",
+    "url": "http://placehold.it/32x32",
+    "imagen": "http://placehold.it/32x32",
+    "estado": "STANDBY",
+    "tipo": "INDEFINIDA",
+    "color": "marron",
+    "latitud": 73.285913,
+    "longitud": -57.327753,
+    "duracion": 192,
+    "participantes": 50
+  },
+  {
+    "nombre": "labore sint",
+    "descripcion": "aliquip culpa aliqua mollit",
+    "fecha": "21/04/2020",
+    "url": "http://placehold.it/32x32",
+    "imagen": "http://placehold.it/32x32",
+    "estado": "STANDBY",
+    "tipo": "INDEFINIDA",
+    "color": "negro",
+    "latitud": 10.078021,
+    "longitud": 80.446855,
+    "duracion": 81,
+    "participantes": 21
+  },
+  {
+    "nombre": "nostrud exercitation",
+    "descripcion": "sint duis veniam labore",
+    "fecha": "06/08/2021",
+    "url": "http://placehold.it/32x32",
+    "imagen": "http://placehold.it/32x32",
+    "estado": "STANDBY",
+    "tipo": "REUNION",
+    "color": "naranja",
+    "latitud": 86.172556,
+    "longitud": 173.64233,
+    "duracion": 24,
+    "participantes": 5
+  },
+  {
+    "nombre": "aliqua deserunt",
+    "descripcion": "excepteur cillum sunt reprehenderit",
+    "fecha": "08/06/2020",
+    "url": "http://placehold.it/32x32",
+    "imagen": "http://placehold.it/32x32",
+    "estado": "DOING",
+    "tipo": "REUNION",
+    "color": "blanco",
+    "latitud": -87.704008,
+    "longitud": -96.093492,
+    "duracion": 30,
+    "participantes": 38
+  }
+]
